@@ -16,6 +16,7 @@
       "test"
     ]
   },
+  "profile": "481744473564_NMT-dev",
   "context": {
     "@aws-cdk/aws-lambda:recognizeLayerVersion": true,
     "@aws-cdk/core:checkSecretUsage": true,
